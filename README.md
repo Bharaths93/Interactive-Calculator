@@ -144,7 +144,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Bharath K**
 - GitHub: [https://github.com/Bharaths93](https://github.com/Bharaths93/Interactive-Calculator)
 - Email: bharathkannan1106@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/bharath-kannan-a3b016328](https://www.linkedin.com/in/bharath-kannan-a3b016328/)
